@@ -31,6 +31,7 @@ Quản lý Nhà Hàng ( Admin / Shop Owner)
 <img width="5673" height="8192" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-03-27-212042" src="https://github.com/user-attachments/assets/12e28750-259e-4747-9ea5-51544c8d47dc" />
 
 Dashboard Tổng quan & Thống kê (Admin)
-<img width="8192" height="6288" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-03-27-221832" src="https://github.com/user-attachments/assets/f2b0e42d-2e24-4ecb-96a7-ab33a9e98f61" />
+<img width="8192" height="6819" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-03-27-233525" src="https://github.com/user-attachments/assets/ef3be30e-ed38-4936-9572-860a277646bf" />
+
 
 
